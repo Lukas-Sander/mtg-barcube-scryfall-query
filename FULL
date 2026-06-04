@@ -1,0 +1,1 @@
+-(o:"choose a" o:"the chosen") (-o:flip -o:coin) (-fo:create -fo:token) (-o:dice or (-o:roll -o:die)) (-fo:counter or (o:"counter target" (o:spell or o:ability))) -o:attraction -o:initiative -o:monarch -t:attraction (-o:place -o:sticker) -is:digital -o:"venture into the dungeon” -fo:shuffle -o:"ring tempts " -is:dfc eur<1 game:paper -o:"becomes prepared" -t:room
